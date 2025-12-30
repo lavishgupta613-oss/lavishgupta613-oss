@@ -1,9 +1,12 @@
+
+
 <h1 align="center">Hey 👋 I'm Lavish Gupta</h1>
-<h3 align="center">Data Scientist</h3>
+<h3 align="center">Engineer Who Builds with Data & Code</h3>
 
 <p align="center">
 💼 Data Scientist at <b>Turing</b> • 🎓 B.Tech in AI & Data Science (IIT Jodhpur)
 </p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/lavish-gupta-a93808250/">
@@ -13,6 +16,28 @@
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 </p>
+<table>
+<tr>
+<td width="65%" valign="top">
+
+
+### 👨‍💻 About Me
+- I enjoy building **practical, user-focused tech**
+- Strong problem-solving mindset with solid **CS fundamentals**
+- Interested in **ML systems, full-stack products, and tooling**
+- Always learning and improving through real-world projects
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="220"/>
+
+</td>
+</tr>
+</table>
+
+
+
 
 ---
 
