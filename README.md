@@ -16,53 +16,47 @@
 
 ---
 
-## 🧠 About Me
-- Strong foundation in **DSA, problem solving, and ML concepts**
-- Interested in building **practical, user-focused products**
-- Experience with **ML systems, full-stack apps, and browser extensions**
+## 🧠 Overview
+- Strong fundamentals in **data structures, algorithms, and machine learning**
+- Enjoy building **practical, user-focused applications**
+- Hands-on experience with **ML systems, full-stack apps, and browser extensions**
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,fastapi,flask,opencv,mysql,mongodb,git,pytorch&perline=6" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 ### 🧩 ApniWish — Universal Wishlist Extension
-- Save products from **Amazon, Flipkart, Meesho, Myntra**
-- Handles **dynamic DOM changes** across platforms
-- Clean UI with persistent browser storage  
+- Save products seamlessly from **Amazon, Flipkart, Meesho, Myntra**
+- Designed to handle frequent **DOM and UI changes**
+- Minimal interface with persistent local storage  
 🔗 https://github.com/lavishgupta613-oss/ApniWish
 
 ---
 
-### 🏋️ FITGURU — Personalized Fitness Assistant (GenAI)
-- AI-powered recommendations using **Gemini API**
-- Memory-based personalization across sessions
-- Built with **React + FastAPI**, deployed on Render  
+### 🏋️ FITGURU — AI-Powered Fitness Assistant
+- Personalized fitness guidance using **Gemini API**
+- Context-aware recommendations with session memory
+- Full-stack implementation using **React and FastAPI**  
 🔗 https://fitguru-frontend.onrender.com/
 
 ---
 
 ### 🔬 Few-Shot Federated Learning
-- Privacy-preserving ML without sharing raw data
-- Few-shot learning under extreme data scarcity
-- Evaluated using accuracy, precision, recall  
+- Privacy-preserving collaborative learning without raw data sharing
+- Built for **low-data, high-privacy** environments
+- Evaluated using accuracy, precision, and recall  
 🔗 https://github.com/lavishgupta613-oss/Few-Shot-Federated-Learning
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=lavishgupta613-oss&theme=dracula" height="150"/>
-</p>
-
----
-
+## 📈 Open Source Activity
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
