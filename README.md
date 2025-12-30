@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Lavish Gupta</h1>
-<h3 align="center">Data Scientist | Problem Solver | Builder</h3>
+<h3 align="center">Data Scientist</h3>
 
 <p align="center">
 💼 Data Scientist at <b>Turing</b> • 🎓 B.Tech in AI & Data Science (IIT Jodhpur)
