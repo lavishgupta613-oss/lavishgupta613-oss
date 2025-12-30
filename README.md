@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hey 👋 I'm Lavish Gupta</h1>
 <h3 align="center">Engineer Who Builds with Data & Code</h3>
 
@@ -16,44 +14,23 @@
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
 </a>
 </p>
-<table>
-<tr>
-<td width="35%" valign="top">
 
+---
 
 ### 👨‍💻 About Me
-- I enjoy building **practical, user-focused tech**
-- Strong problem-solving mindset with solid **CS fundamentals**
-- Interested in **ML systems, full-stack products, and tooling**
-- Always learning and improving through real-world projects
 
-</td>
-<td width="65%" align="center">
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="370" style="margin-left: 20px;"/>
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="220"/>
-
-</td>
-</tr>
-</table>
-
-
-
-
----
-
-## 🧠 Overview
-- Strong fundamentals in **data structures, algorithms, and machine learning**
-- Enjoy building **practical, user-focused applications**
-- Hands-on experience with **ML systems, full-stack apps, and browser extensions**
-
----
-
-## 💻 Tools & Technologies
+- I like building **clean, practical tech**
+- Strong **problem-solving** and CS fundamentals
+- Interested in **ML systems, full-stack apps, and developer tools**
+- Focused on learning through **real-world projects**
+### 💻 Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,html,css,fastapi,flask,opencv,mysql,mongodb,git,pytorch&perline=6" />
 </p>
 
----
+
 
 ## 🚀 Selected Work
 
