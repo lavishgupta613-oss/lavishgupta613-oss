@@ -18,7 +18,7 @@
 </p>
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="35%" valign="top">
 
 
 ### 👨‍💻 About Me
@@ -28,7 +28,7 @@
 - Always learning and improving through real-world projects
 
 </td>
-<td width="35%" align="center">
+<td width="65%" align="center">
 
 <img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" height="220"/>
 
