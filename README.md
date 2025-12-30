@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="370" style="margin-left: 20px;"/>
+<img src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" align="right" height="320" style="margin-left: 20px;"/>
 
 - I like building **clean, practical tech**
 - Strong **problem-solving** and CS fundamentals
